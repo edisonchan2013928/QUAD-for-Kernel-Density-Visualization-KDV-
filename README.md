@@ -4,6 +4,6 @@ QUAD is the short form of quadratic bound functions, which mainly support kernel
 
 In the future, we will further support other types of kernel functions. In addition, we hope to develop the efficient algorithms for training the kernel-based machine learning models, e.g., kernel SVM and kernel regression. Moreover, we also want to provide the library to help some domain experts (e.g., in geography/ social science domain) for using our method to visualize their large-scale datasets.
 
-If you have any problem about this work, please contact me (just call me Edison) via the following email addresses "edisonchan2013928@gmail.com", "tnchan@cs.hku.hk" or "tnchan2@hku.hk". For more details about my recent publications, please refer to this webpage "https://edisonchan2013928.github.io/My-homepage/"
+If you have any problem about this work, please contact me (just call me Edison) via the following email addresses "edisonchan2013928@gmail.com", "tnchan@cs.hku.hk" or "tnchan2@hku.hk". For more details about my recent publications, please refer to this webpage "https://edisonchan2013928.github.io/My-homepage/".
 
 [1] T. N. Chan, M. L. Yiu, and L. H. U. KARL: fast kernel aggregation queries. In ICDE, pages 542–553, 2019
